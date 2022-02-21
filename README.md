@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, je suis David Capelle
+
+![My Image]("D:\Donnees\Formation Data Scientist - Openclassroms\Projet P9 - insertion professionnelle\DS_BI.jpg")
 
 <!--
 **DacodacMLDS/DacodacMLDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
