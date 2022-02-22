@@ -1,6 +1,3 @@
-### Hello, je suis David Capelle
-
-
 <!--
 **DacodacMLDS/DacodacMLDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![My Remote_Image](https://drive.google.com/uc?export=view&id=1htQS0bX2W7qmV6Gt9Xmvem9JhD8g_EIX)
+
+Bonjour !
+
+Je suis David Capelle,
